@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    const words = ["Web Developer", "Web Designer", "Frontend Developer"];
+    const words = ["Web Developer", "Web Designer", "Frontend Developer","A Pythonist"];
     let wordIndex = 0;
     let charIndex = 0;
     let currentWord = '';

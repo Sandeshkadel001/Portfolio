@@ -294,7 +294,7 @@
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    background: conic-gradient(#0575e6 calc(var(--percent) * 1%), #333 0);
+    background: conic-gradient(#378bde calc(var(--percent) * 1%), #333 0);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -446,3 +446,6 @@
   .contact-form .btn:hover {
     background-color: #00cce7;
   }
+  .green-text {
+    color: green; /* Change text color to green */
+}
